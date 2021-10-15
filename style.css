@@ -1,0 +1,59 @@
+div {
+  text-align: center;
+}
+
+#title {
+  color: blue;
+  font-family: monospace;
+  font-size: 4em;
+}
+
+.nickname {
+  color: blue;
+  font-family: monospace;
+  border: 1px solid blue;
+  margin: 0 160px 50px 160px;
+  margin-rigt
+}
+
+#main {
+  text-align: center;
+  background-color: lightgray;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+#time-line {
+  color: blue;
+  padding-top: 30px;
+}
+
+#image {
+  width: 900px;
+  heigth: 500px;
+  max-width: 100%;
+  heigth: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+#tribute-info{
+  margin-left: 100px;
+  text-align: left;
+  padding-right: 100px
+
+}
+
+#wiki-link {
+  text-align: center;
+  color: blue;
+}
+
+#footer {
+  background-color: gray;
+  padding-top: 10px;
+  padding-left: 100px;
+  padding-bottom: 10px;
+  text-align: left;
+}
